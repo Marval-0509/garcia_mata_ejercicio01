@@ -1,0 +1,25 @@
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.cabecera img{
+    width: 300px;
+    height: 120px;
+    padding: 10px;
+}
+
+
+
+.menu{
+    display: flex;   
+    gap: 10px;
+}
+
+.menu ul{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
